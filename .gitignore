@@ -1,3 +1,4 @@
 datos_sec_edgar/
 data_variables_crudas/DATASET_MODELO.csv
 data_variables_crudas/VARIABLES_FINANCIERAS_CRUDAS.csv
+.venv/
