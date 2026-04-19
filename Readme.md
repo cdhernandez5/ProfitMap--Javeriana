@@ -2,7 +2,7 @@
 
 Este proyecto tiene como objetivo construir un pipeline de datos y un modelo predictivo de riesgo financiero (riesgo de quiebra, distress financiero, etc.) utilizando datos públicos de estados financieros extraídos del sistema EDGAR de la Securities and Exchange Commission (SEC) de Estados Unidos.
 
-----
+---
 
 ## 1. Descarga de Datos Crudos
 
